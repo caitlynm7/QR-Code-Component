@@ -1,0 +1,19 @@
+body {
+  background-color: #d6e2f0;
+  max-width: 1440px;
+  margin: 0, auto;
+}
+
+.container {
+  background-color: white;
+  width: 350px;
+  font-family: "Outfit";
+  font-size: 12px;
+  text-align: center;
+}
+
+.content {
+  width: 275px;
+  display: block;
+  text-align: center;
+}
