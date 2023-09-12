@@ -24,8 +24,7 @@ The first of the beginning road map on Front End Mentor is to recreate this QR c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://animated-daffodil-5092e0.netlify.app)
 
 ## My process
 
@@ -57,6 +56,6 @@ Moving forward I would like to practive Flex techniques as well as alignment and
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/caitlyn-mink-a3a5a9b1/)
+- LinkedIn - [Caitlyn Mink](https://www.linkedin.com/in/caitlyn-mink-a3a5a9b1/)
 - Frontend Mentor - [@caitlynm7](https://www.frontendmentor.io/profile/caitlynm7)
 - Twitter - [@caitlyn_m7](https://twitter.com/caitlyn_m7) \*\*Currently on day 14 of #100DaysofCode
